@@ -1,24 +1,16 @@
-this is tento a facebook like app but for developers
-i am working on it by myself
+# Facebook-clone-Web-Application
+A full featured FACEBOOK CLONE web application written in Python-Flask that I developed with python-flask, html, css and javascript.
 
-to my future self:
-hi me in a few years i know you are very sucsessfull i love to see you respond to this by the way your dad isnt in canada yet.im 12 years old and not in the canada school yet!😉
-________________________________________________________________________________________________________________________________________________________________________________________
-questions to future self:
-is daddy there?:
-are you sucsessfull?:
-is tesla and fandogh and shery there?:
-are we rich:
-did you finish this project?:
-did this project get you rich?:
-how old are you now?:
-are you proud of yourself?:
-whatjob are you working in?:
-do you still in the same house with aunty negin?:
-what changed in your life?:
-how was school?:
-are you happy?:
-do you still watch tech with tim?:
-________________________________________________________________________________________________________________________________________________________________________________________
 
-i love you❤️
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png)
+
+![alt text](https://blog.theodo.com/static/daf0a6158eac76e700891058b02de9cc/a79d3/facebook2.png)
+
+A full-featured facebook-clone web application with the backend written in Python-Flask , frontend written with html,css, bootstrap and javascript. 
+
+Features: 1. Users can Create Accounts
+          2. Users can make blog tasks
+          3. Users can follow other users
+          4. Users can edit profile details 
+          5. Users can recover forgotten password with their email
+          6. Users can send private messages to other users
